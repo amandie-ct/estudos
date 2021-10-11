@@ -1,0 +1,38 @@
+// cores do tema
+$primary: #326dee;
+$secondary: #1ac886;
+$error: #d32752;
+$info: #f6c31c;
+
+// paleta de cores
+$colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "error": $error,
+    "info": $info,
+    "blue": #1919e6,
+    "red": #e61919,
+    "yellow": #e6e619,
+    "green": #19e635,
+    "orange": #ffa600,
+    "purple": #9900ff,
+    "gray": #808080,
+    "black": #000,
+    "white": #fff,
+);
+
+// espaçamento
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+// bordas
+$base-thickness: 1px;
+$base-border-radius: 20px;
+$base-box-shadow: 0 3px 12px rgb(0 0 0 / 0.2);
+
+// fonte
+$base-font-size: 1rem;
+$font-size-sm: $base-font-size * 0.75;
+$font-size-lg: $base-font-size * 1.5;
+$font-size-xl: $base-font-size * 2;
+$font-size-xxl: $base-font-size * 3;

@@ -1,0 +1,19 @@
+// importando google font
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+// importando outros arquivos scss ~ a ordem dos imports importa ~
+
+//variáveis e funções
+@import 'variables';
+
+// base e layouts
+@import 'base';
+
+// cores
+@import 'components/colors';
+
+// componentes (botão, card, navbar)
+@import 'components/card';
+@import 'components/button';
+
+// utilidades (margin, padding, opacidade)
