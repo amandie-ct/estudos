@@ -10,6 +10,7 @@
 // base e layouts
 @import 'base';
 @import 'breakpoints';
+@import 'grid';
 
 // cores
 @import 'components/colors';
@@ -17,6 +18,7 @@
 // componentes (botão, card, navbar)
 @import 'components/card';
 @import 'components/button';
+@import 'components/navbar';
 
 // utilidades (margin, padding, opacidade)
 @import 'utilities';
