@@ -500,6 +500,10 @@ img {
   background-color: #326dee;
 }
 
+.text-hover-primary:hover {
+  color: #326dee;
+}
+
 .text-primary-light-1 {
   color: #477cf0;
 }
@@ -722,6 +726,10 @@ img {
 
 .bg-secondary {
   background-color: #1ac886;
+}
+
+.text-hover-secondary:hover {
+  color: #1ac886;
 }
 
 .text-secondary-light-1 {
@@ -948,6 +956,10 @@ img {
   background-color: #d32752;
 }
 
+.text-hover-error:hover {
+  color: #d32752;
+}
+
 .text-error-light-1 {
   color: #d73d63;
 }
@@ -1170,6 +1182,10 @@ img {
 
 .bg-info {
   background-color: #f6c31c;
+}
+
+.text-hover-info:hover {
+  color: #f6c31c;
 }
 
 .text-info-light-1 {
@@ -1396,6 +1412,10 @@ img {
   background-color: #1919e6;
 }
 
+.text-hover-blue:hover {
+  color: #1919e6;
+}
+
 .text-blue-light-1 {
   color: #3030e9;
 }
@@ -1618,6 +1638,10 @@ img {
 
 .bg-red {
   background-color: #e61919;
+}
+
+.text-hover-red:hover {
+  color: #e61919;
 }
 
 .text-red-light-1 {
@@ -1844,6 +1868,10 @@ img {
   background-color: #e6e619;
 }
 
+.text-hover-yellow:hover {
+  color: #e6e619;
+}
+
 .text-yellow-light-1 {
   color: #e9e930;
 }
@@ -2066,6 +2094,10 @@ img {
 
 .bg-green {
   background-color: #19e635;
+}
+
+.text-hover-green:hover {
+  color: #19e635;
 }
 
 .text-green-light-1 {
@@ -2292,6 +2324,10 @@ img {
   background-color: #ffa600;
 }
 
+.text-hover-orange:hover {
+  color: #ffa600;
+}
+
 .text-orange-light-1 {
   color: #ffaf1a;
 }
@@ -2514,6 +2550,10 @@ img {
 
 .bg-purple {
   background-color: #9900ff;
+}
+
+.text-hover-purple:hover {
+  color: #9900ff;
 }
 
 .text-purple-light-1 {
@@ -2740,6 +2780,10 @@ img {
   background-color: #808080;
 }
 
+.text-hover-gray:hover {
+  color: #808080;
+}
+
 .text-gray-light-1 {
   color: #8d8d8d;
 }
@@ -2964,12 +3008,20 @@ img {
   background-color: #000;
 }
 
+.text-hover-black:hover {
+  color: #000;
+}
+
 .text-white {
   color: #fff;
 }
 
 .bg-white {
   background-color: #fff;
+}
+
+.text-hover-white:hover {
+  color: #fff;
 }
 
 .card {

@@ -5,6 +5,9 @@
     .bg-#{$key} {
         background-color: $val;
     }
+    .text-hover-#{$key}:hover{
+        color: $val;
+    }
 
     @if ($val != black and $val != white) {
         // variações de luz (claro)
